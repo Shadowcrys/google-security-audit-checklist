@@ -14,7 +14,7 @@ Para ello, se utilizó un checklist donde se identificó si la organización cue
 ## 📂 Contenido del repositorio
 - **Controls-and-compliance-checklist.docx** → Documento trabajado por el autor. Incluye:
   - Evaluación de controles de seguridad (firewall, IDS, backups, antivirus, políticas de contraseñas, etc.):contentReference[oaicite:0]{index=0}.
-  - Evaluación de cumplimiento normativo (PCI DSS, GDPR, SOC 1/2):contentReference[oaicite:1]{index=1}.
+  - Evaluación de cumplimiento normativo (PCI DSS, GDPR, SOC 1/2):contentReference
   - Espacio para recomendaciones a la gerencia de TI sobre brechas y mejoras prioritarias.
 
 *(Los documentos “Scope, goals, and risk assessment report” y “Control categories” fueron referencias provistas en la actividad, pero no forman parte del trabajo desarrollado por el autor.)*
@@ -30,14 +30,14 @@ Para ello, se utilizó un checklist donde se identificó si la organización cue
 
 ## 🛠️ Herramientas y conceptos aplicados
 - **Checklist de auditoría de seguridad**  
-- **Controles de seguridad** (administrativos, técnicos y físicos):contentReference[oaicite:3]{index=3}  
+- **Controles de seguridad** (administrativos, técnicos y físicos):contentReference
 - **Cumplimiento normativo** (PCI DSS, GDPR, SOC)  
 
 ---
 
 ## 📖 Aprendizaje clave
 La elaboración del checklist permitió:
-- Identificar brechas de seguridad en áreas críticas (ej. falta de IDS, ausencia de backups y planes de recuperación):contentReference[oaicite:4]{index=4}.  
+- Identificar brechas de seguridad en áreas críticas (ej. falta de IDS, ausencia de backups y planes de recuperación):contentReference  
 - Reforzar la importancia de los marcos de referencia como **NIST CSF** en auditorías.  
 - Comprender que una auditoría de seguridad no solo evalúa tecnología, sino también procesos y cumplimiento regulatorio.
 
