@@ -13,7 +13,7 @@ Para ello, se utilizó un checklist donde se identificó si la organización cue
 
 ## 📂 Contenido del repositorio
 - **Controls-and-compliance-checklist.docx** → Documento trabajado por el autor. Incluye:
-  - Evaluación de controles de seguridad (firewall, IDS, backups, antivirus, políticas de contraseñas, etc.):contentReference[oaicite:0]{index=0}.
+  - Evaluación de controles de seguridad (firewall, IDS, backups, antivirus, políticas de contraseñas, etc.):contentReference
   - Evaluación de cumplimiento normativo (PCI DSS, GDPR, SOC 1/2):contentReference
   - Espacio para recomendaciones a la gerencia de TI sobre brechas y mejoras prioritarias.
 
